@@ -2,7 +2,7 @@
 
 Magic sits beside the Grand Design. It is not a fourth System output.
 
-Later file: how-magic-works.md
-Do not invent that manual in this PR.
+Parent manual: how-magic-works.md
 
-Until that file exists, do not treat this folder as a complete magic reference.
+Witch, shaman, druid, miracle, and tools pages are not written yet.
+Do not invent them in this PR.
