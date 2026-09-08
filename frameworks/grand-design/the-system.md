@@ -8,8 +8,8 @@ children-planned:
   - frameworks/grand-design/skills.md
   - frameworks/grand-design/leveling.md
   - frameworks/magic/how-magic-works.md
-bot-role: language for narrator and SuperGrok Expert; not an engine
-authority: narrator finalizes; Expert returns options only
+bot-role: language for narrator and Grok; not an engine
+authority: narrator finalizes; Grok returns options only
 status: draft
 ---
 
@@ -39,7 +39,7 @@ This file does not answer:
 
 Innverse System physics. Plots and characters are non-canon. Campaign exceptions belong in `reference/campaign/`, not here.
 
-How posts become a mark later (archive, tags, narrator gate, SuperGrok Expert) is parked in `operations-outline.md`. Build that pipeline after the parent, children, and magic pages exist. This file does not run that pipeline and does not award XP.
+How posts become a mark later (archive, tags, narrator gate, Grok) is parked in `operations-outline.md`. Build that pipeline after the parent, children, and magic pages exist. This file does not run that pipeline and does not award XP.
 
 ## How to use this file
 
@@ -55,7 +55,7 @@ If those children are not written yet, stay inside this file. Do not invent a ch
 
 ### Output
 
-This block is for an Expert ruling packet. It is not forum-post text and not the in-world announcement.
+This block is for a Grok ruling packet. It is not forum-post text and not the in-world announcement.
 
 Return:
 
@@ -65,7 +65,7 @@ Return:
 4. Which child would be opened next, if any
 
 Do not treat a wiki anecdote as a new law.
-Expert does not finalize. The narrator does.
+Grok does not finalize. The narrator does.
 
 ### Stops
 
@@ -168,7 +168,7 @@ Flavor or culture can differ without a rank step ([Ninja] / [Assassin]). Rank st
 - Stronger Skills happen as luck, need, desire, tragedy, or a capstone.
 - Ceiling: a Skill obtained from that pool may sit **up to 20 levels above** that Class’s current height.
 - That number is a ceiling, not an average. Most draws sit far under it.
-- Past the ceiling: narrator only. Expert returns in-ceiling options and stops.
+- Past the ceiling: narrator only. Grok returns in-ceiling options and stops.
 
 A Skill obtained or learned without leveling a Class still uses a real pool. When unsure, use the Class they were actually living, not the one they wished. No floating pool. That pool’s ceiling still applies.
 

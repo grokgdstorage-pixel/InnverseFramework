@@ -41,7 +41,7 @@ Open this file when the product in play might be a level: a step, silence instea
 
 ### Output
 
-Expert ruling packet, not forum text.
+Grok ruling packet, not forum text.
 
 Return:
 
@@ -54,7 +54,7 @@ Default stance: always give the narrator options, with a short reason for each. 
 
 When the step would be a capstone, say so. Include wait as an option if they have not truly arrived. Point at `classes.md` and `skills.md` for the re-evaluation, not only at +10.
 
-Narrator finalizes. Expert proposes.
+Narrator finalizes. Grok proposes.
 
 ### Stops
 

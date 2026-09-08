@@ -43,14 +43,14 @@ If the mark is only a Skill or only a level, do not use this file.
 
 ### Output
 
-Expert ruling packet, not forum text.
+Grok ruling packet, not forum text.
 
 Return:
 
 1. Class outcome: none / first Class / same Class / flavor rename / hierarchy step / consolidation / loss or demotion
 2. Which Class owns the deed, if they have more than one
 3. One short reason
-4. A range of fitting Class names or outcomes when more than one honest fit exists. Expert proposes names and hierarchy adjectives. Do not lock to a single name unless only one fits. Mark which options are the smaller marks.
+4. A range of fitting Class names or outcomes when more than one honest fit exists. Grok proposes names and hierarchy adjectives. Do not lock to a single name unless only one fits. Mark which options are the smaller marks.
 5. Whether `skills.md` or `leveling.md` should open next
 
 Narrator finalizes. Smallest Class mark that fits, unless they pick a larger honest option.
@@ -119,7 +119,7 @@ If mind and deed pull apart, do not auto-pick. Inform the narrator. List both re
 - They do the motions of a role but refuse that identity. The System may still *offer*. They may refuse. That refusal is allowed. Do not force the Class. Keep the deeds, events, and mindset that caused the offer. The offered Class or Skill itself expires. It is not sitting on the sheet waiting to be clicked later. A later mark must be earned again from what they still are and still do.
 - They hold the identity but the deeds are thin. Do not mint the higher Class. Wait or keep the smaller name.
 
-Expert does not resolve that split in silence.
+Grok does not resolve that split in silence.
 
 ## Flavor vs hierarchy
 
@@ -135,7 +135,7 @@ A step up is identity plus deeds. It is not a level number by itself. A high-lev
 
 Use an **adjective** ([Veteran Guard]) when the path is the same work, grown. Use a **new noun** ([Swordmaster], [King]) when the role itself changed height or kind.
 
-**[Veteran]** is a hierarchy adjective, not a Class locked to [Soldier]. It can sit on any path where earned experience and wisdom in *that* work would raise the role: [Veteran Guard], [Veteran Sailor], and so on. It is one example of a hierarchy word, not the only one. Expert may propose other adjectives. Narrator picks.
+**[Veteran]** is a hierarchy adjective, not a Class locked to [Soldier]. It can sit on any path where earned experience and wisdom in *that* work would raise the role: [Veteran Guard], [Veteran Sailor], and so on. It is one example of a hierarchy word, not the only one. Grok may propose other adjectives. Narrator picks.
 
 It marks wisdom earned in the path, not years on a calendar. That wisdom can come from long service at low intensity, or from a shorter stretch of high-intensity events that force the same learning faster. Either route can justify the step. A long quiet stretch with nothing learned is not enough. A brutal stretch that does not change how they understand the work is not enough.
 
@@ -230,7 +230,7 @@ Not a catalog.
 
 - Class names in examples are patterns, not required Classes.
 - Name-change lines in the novels are Class identity, not the Conditions child.
-- [Veteran] is a hierarchy adjective for earned wisdom on a fitting path, not a [Soldier]-only Class. Expert proposes other adjectives.
+- [Veteran] is a hierarchy adjective for earned wisdom on a fitting path, not a [Soldier]-only Class. Grok proposes other adjectives.
 - Adjective = same work grown. New noun = the role changed height or kind.
 - Refused offers: deeds and mindset stay. The offered Class or Skill expires.
 - Lost or demoted Classes and Skills are stored on the sheet and can return only as far as the role is reclaimed.

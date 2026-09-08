@@ -41,7 +41,7 @@ Open this file when the product in play is a Skill: obtained, learned, grown, co
 
 ### Output
 
-Expert ruling packet, not forum text.
+Grok ruling packet, not forum text.
 
 Return:
 
@@ -56,7 +56,7 @@ Return:
 
 Default stance: always give the narrator options, with a short reason for each option. Include obtain-new and grow-held when both could be honest (for example when a Class has stepped). Do not pick one in silence.
 
-Narrator finalizes. Expert proposes. Do not lock List A to List B.
+Narrator finalizes. Grok proposes. Do not lock List A to List B.
 
 ### Stops
 
@@ -123,7 +123,7 @@ A Skill obtained, learned, or grown from that Class’s pool may sit **up to 20 
 
 That is a ceiling, not an average. Most draws sit far under it.
 
-Past the ceiling: narrator only. Expert returns in-ceiling options and stops.
+Past the ceiling: narrator only. Grok returns in-ceiling options and stops.
 
 Learned Skills still respect that pool. A learned Skill that would sit past the ceiling is narrator-only.
 
