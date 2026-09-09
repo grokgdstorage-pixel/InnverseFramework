@@ -70,11 +70,11 @@ Window and quality: parent + character profile. Do not re-explain them here.
 - Witch / shaman / druid do not walk these four drills as law.
 - No floating pool. Draw from the source and Class they are actually living.
 - Always return List A and List B unless the narrator asks to pair them.
-- Do not treat `parking-lot.md` as kit. Do not invent caster-pattern chapters from it.
+- Do not treat `parking-lot.md` as kit. No caster-patterns file is required. Do not invent one.
 
 ## What a spell offer is
 
-A named effect they can hold, drawn from a real source and a real Class lean.
+A named effect they can hold, drawn from a real source and the Class they are living.
 
 It is not a player catalog. Need and desire color the pick. They do not invent a pool the Class does not have.
 
@@ -86,7 +86,7 @@ A `[Cryomancer]` draws ice-lean effects at their band. They do not draw an `[Arc
 
 If two Classes could own the spell, use `classes.md` (who owns the deed). Then pick from that pool.
 
-If the lean is what matters (necromancer vs elementalist vs enchanter), use the living Class name and this packet. Do not open `parking-lot.md` for a ruling. Do not invent a patterns manual that is not a filed child.
+Dye is the living Class name. No patterns child is required. Do not invent one. Do not open `parking-lot.md` for a ruling.
 
 No floating pool.
 
@@ -107,7 +107,7 @@ Weaker or smaller effects still happen. Several small templates can land; so can
 
 ## The four drills
 
-Mana path only. School map, not four equal manuals.
+Mana path only. A map so Acquisition and Theorization are not confused with a known throw. Not four required courses. Most scenes never leave Acquisition or stay in the parent.
 
 | Drill | What it is | Where the meat is |
 |---|---|---|

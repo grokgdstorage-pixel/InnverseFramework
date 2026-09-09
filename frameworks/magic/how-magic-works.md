@@ -70,7 +70,7 @@ Default: options plus a reason each. Oversupply is fine. Narrator cuts.
 - Manner is not a source.
 - Manner is not boxed vs freeform.
 - Felt casting is not a miracle.
-- Do not force witch / shaman / druid through Wistram’s four steps.
+- Do not run witch / shaman / druid through `spellcraft.md` unless they are also walking the mana path.
 - Specialization does not ban other spells.
 - Do not invent a tier-to-level table.
 - Do not treat practiced-vs-crude as a third named state. It is grade inside the box.
@@ -99,7 +99,7 @@ What the magic draws on. Class names an investment in a source. It does not inve
 - **Mana** — internal pool, ambient, stones, potions. Default [Mage] path.
 - **Tribe / shared meaning** — shaman path. Power moves with the community.
 - **Emotion, place, social weight** — witch path. What people already feel about a thing.
-- **Wild** — druid path. Old growth, unmaking of spells and bindings.
+- **Wild** — druid path. Old growth and nature-weight. Thin in living memory. Do not treat “unmake” as a required school.
 
 Miracle is not a living source. It is an **extinct and forgotten** system. It left with the gods. Almost no one in Innverse remembers it. The few who do are rare. Living people meet it only as a scrap in the oldest history or tale. Do not offer miracle as a current Class path. Do not let a player “remember the gods” into a miracle without narrator override.
 
@@ -207,7 +207,6 @@ Manner: Calculated, Felt, or both listed. Not a new Class because they studied o
 
 ## TBD
 
-- Witch / shaman / druid as child pages if this parent bloats
+- Other-source or practice children only if a recurring caster in play actually lives that path
 - Miracle page only if play forces the extinct path
-- Artifact / rune / scroll as tools page
-- Exact modern rarity of each tier band
+- Exact modern rarity of each tier band — do not invent a table to fill this
