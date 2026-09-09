@@ -23,6 +23,8 @@ Blank heading = unknown. Do not invent.
 
 `profile.md` → `mind.md` → `relationships.md` → `system.md` if a System file might open. `magic.md` only if it exists.
 
+On `mind.md`: read Personality and How their mind operates first. Then only the labeled section the scene needs.
+
 ## Grok packet
 
 Not a finished forum post unless asked.
