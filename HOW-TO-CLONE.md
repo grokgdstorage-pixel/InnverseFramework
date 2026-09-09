@@ -6,7 +6,7 @@
 4. Fill, in this order:
    - reference/campaign/ — house rules for this table
    - lore/campaign/ — place, premise, local factions
-   - characters/campaign/ — copy characters/templates/pc.md or npc.md for each person
+   - characters/campaign/ — copy characters/templates/_person/ or _background/ for each named person (one folder per person)
    - sessions/ — one note per posting cycle, after play begins
 5. Leave frameworks/ alone unless the table makes a logged system change. If you change a system rule, copy the decision into reference/campaign/decision-log.md and do not silently edit the template repo.
 6. Play stays on the BBCode forum. This vault records systems, cast, and reference. It does not replace the thread.
