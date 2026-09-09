@@ -150,12 +150,7 @@ A magic Class is the System investing in a source and a focus. It does not rewri
 - This divergence is **mind-led**. Intention and mindset weigh more than hours. A season of fire study can do it. So can an intense weekend if they actually mean to pursue that subject as a path, not as a trick for one fight. Casual curiosity is not enough. A pile of hours with no desire to walk the new subject is not enough.
 - If mind and time disagree, list both readings. Do not resolve in silence.
 - [Witch], [Shaman], and [Druid] sit on other living sources. Do not run them through the mage-path teaching steps unless they are also walking the mana path.
-- Mage-path teaching (Wistram / Eldavin), **mana path only**:
-  - **Foundation** — theory, and growing the mana pool
-  - **Acquisition** — learning spells
-  - **Materialization** — performing them, or putting them into objects
-  - **Theorization** — creating new magic, or pushing past limits
-- Those four steps are school drill for [Mage]-line work. Not a law of all magic.
+- Mage-path teaching (learn / throw / invent a named spell) lives in `spellcraft.md`. Mana path only. Not a law of all magic.
 - Miracle Classes are not a modern offer.
 
 Most modern [Mages] live on boxed spells. The box is how average casters stay effective and how good casters learn without building every spell from nothing. That same ease is why freeform stays rare and little-known.

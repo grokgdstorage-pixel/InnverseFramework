@@ -10,6 +10,8 @@ That folder is the parent. Classes, Skills, and levels are products of the Syste
 Magic sits beside the System in magic/.
 It is related. It is not a fourth Grand Design output.
 
+Mana-path teaching (learn / rebuild / invent a spell) lives in magic/spellcraft.md.
+
 ## How to use
 - Read grand-design/the-system.md before generating a Class, Skill, or level.
 - Then read only the child file for that product.
