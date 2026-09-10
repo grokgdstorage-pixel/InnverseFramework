@@ -14,7 +14,7 @@ Current hold lives in `record.md`. How to offer a new step lives in the Grand De
 
 Blank or `unknown` = unknown. Delete this file if they have no Design log yet.
 
-One row per announce (or cluster that fired together). Newest at the top or bottom — pick one and keep it.
+Newest row at the **top**. Cluster on one row only when the Design spoke in one breath. Split rows when announces were separate.
 
 | When | Trigger | Announce | Skills / marks | Notes |
 | --- | --- | --- | --- | --- |
