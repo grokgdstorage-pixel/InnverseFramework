@@ -31,8 +31,6 @@ Class and Level only. One line per Class they still have. Current name after con
 
 Standing System marks that are not a Class or a Skill. Name — what it does in play. Or **None.**
 
-Titles, if they have one that play has established: name — what it changes. Do not invent a Title.
-
 ---
 
 ## Stored and refused
