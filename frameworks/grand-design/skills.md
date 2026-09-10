@@ -29,7 +29,7 @@ This file does not answer:
 
 - Class identity (`classes.md`)
 - when a level fires, or capstone as a *level event* (`leveling.md`)
-- Conditions, Titles, or System colors (parking lot)
+- Conditions (`conditions.md`). System colors: parked.
 - magic
 - a list of legal Skills
 
