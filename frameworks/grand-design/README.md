@@ -26,5 +26,5 @@ How to apply the parent to a level: when it fires, what it grants in this kit.
 Process and examples.
 
 ## Status
-Purpose lines only.
-Do not invent the manuals in this PR.
+Parent and children are on `main`: `the-system.md`, `classes.md`, `skills.md`, `leveling.md`.
+Read the parent first. Do not restate Watch / Judge / Speak inside a child.

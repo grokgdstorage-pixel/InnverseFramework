@@ -10,7 +10,7 @@ status: stub
 
 Facts the Grand Design has **already** put on this person.
 
-How to *offer* a new Class, Skill, or step lives in `the-system.md`, `classes.md`, `skills.md`, and `leveling.md`. Do not reprint those files. Do not invent level, Skills, gift, or a mark.
+How to *offer* a new Class, Skill, or step lives in `the-system.md`, `classes.md`, `skills.md`, and `leveling.md`. Do not reprint those files. Do not invent level, Skills, or a mark.
 
 Blank or `unknown` = unknown.
 

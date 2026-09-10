@@ -13,7 +13,7 @@ Clone this repo for a new game. Do not turn the template itself into one campaig
 - frameworks/ — Grand Design, Classes, Skills, Leveling, Magic
 - reference/meta and reference/operations — how documents and posts are made
 - lore/innverse — setting that applies to every game
-- characters/templates — blank sheets
+- characters/templates — blank person folders
 
 ## What you fill after cloning
 - reference/campaign/
