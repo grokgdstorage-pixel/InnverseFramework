@@ -14,7 +14,7 @@ How to *offer* a new Class, Skill, or step lives in `the-system.md`, `classes.md
 
 Blank or `unknown` = unknown.
 
-Read this page when a ruling or a scene needs what they **hold**. Dated gain-by-gain log belongs in `history.md`. How they think belongs in `mind.md`. Bound Spells belong in `magic.md`.
+Read this page when a ruling or a scene needs what they **hold**. Dated gain-by-gain log belongs in `history-system.md`. How they think belongs in `mind.md`. Bound Spells belong in `magic.md`.
 
 ---
 

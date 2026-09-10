@@ -9,7 +9,7 @@ status: draft
 # Person folder
 
 **Required:** `profile.md` `mind.md` `relationships.md` `record.md`
-**Optional — delete if unused:** `magic.md` `history.md`
+**Optional — delete if unused:** `magic.md` `history.md` `history-system.md`
 
 Player: required, usually denser mind and relationships.
 Important: required.

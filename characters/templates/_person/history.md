@@ -8,6 +8,14 @@ status: stub
 
 # History
 
-Delete unless a step or Class change must be *cited*.
+Beats from play that still shape this person. Not a novel. Not a reprint of `sessions/`.
 
-Dated notes. Not a novel. Not off-screen plot. Names and heights only when known. Blank = unknown. Do not invent.
+System announces live in `history-system.md`. Off-screen plot is the narrator. Blank = unknown. Delete this file if nothing needs citing.
+
+**Before play:** Only facts that already matter on camera. Or omit.
+
+**In play:** Dated lines. Firsts, lasts, and public facts that a later scene must not break. One line each unless the beat is still live.
+
+- When — what happened — why it still matters
+
+Do not log every cycle. If it only lives in a session note, leave it there.
