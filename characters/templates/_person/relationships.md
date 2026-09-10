@@ -10,37 +10,44 @@ status: stub
 
 How they are with **named** people. Not a diagram. Not one voice used on everyone.
 
-Blank = unknown. Do not invent a bond that play has not established.
+Look and default voice live in `profile.md`. Temperament and standing refusals live in `mind.md`. This page is only the difference the **folder owner** makes with someone else.
 
-Copy the card below once per person (or faction treated as a person). Delete unused cards. A name that only passed in a scene does not get a card — that is background. Membership in a faction is listed on `profile.md`. A card here is only if how they are *with that group* matters.
+Blank = unknown. Do not invent a bond play has not established. Off-screen events are the narrator.
 
-Player characters belong here too. They are not a special heading. They are cards.
+Membership in a faction is a line on `profile.md`. A card here only if how they are *with that group* matters.
+
+A name that passed once does not get a card. Player characters are cards too — not a special heading.
+
+Each living person gets a card in *this* folder. The other person’s folder gets the reverse, written from *their* side. Do not copy one card into both folders.
+
+Read `profile.md` Presence and `mind.md` Personality first. Then open **only the card for the person in this scene**. Do not invent under a blank heading.
+
+Copy the card below once per bond. Delete unused cards.
+
+**Person** is who the card is *about* (the other character’s real name). **What they call them** is only how *this* character addresses that person.
 
 ---
 
 ## Card (copy)
 
-### Name
-What they call them. What the other is (friend, rival, debtor, lover, boss, blood).
+**Person:** Who this card is about. Their real name, as on their folder. Example: First Last. Do not put a nickname here.
 
-### How they see them
-The picture in their head. Bias sits here: kinder than they earn, colder than they earn, never taken seriously, always a threat.
+**Link:** Vault link to that person or faction page. Default: `TBD`. Replace TBD when the page exists. Leave TBD so idle scans can find unfinished cards.
 
-### How they actually are with them
-Voice and manners **with this person**. Not their general voice from the profile.
-- What they soften
-- What they sharpen
-- What they never say here and will say to someone else
+**What they call them:** How *this* character addresses that person in a scene. Example: Ren, girl, Captain, nothing (they avoid the name). Blank if they only ever use the real name.
 
-### Want
-What they want from them. What they will spend. What they will not ask.
+**What the other is:** Friend, rival, debtor, lover, boss, blood, patron, faction-as-person — from the **folder owner’s** side.
 
-### Will not
-What they will not do *to* or *with* this person. Separate from the general refusals in `mind.md`.
+**This bond:** What the bond is from their side. A short paragraph is allowed. History only as it still shapes the present. Not a biography of the other person. Not last week’s plot.
 
-### Open
-Debt, wound, promise, lie still running. Or none.
+**How they see them:** The picture in their head. Bias lives here: kinder than they earn, colder than they earn, never taken seriously, always a threat, always a child, always the adult.
+
+**How they actually are with them:** Voice and manners with this person. Not the profile default. What they soften. What they sharpen. What they never say here and will say to someone else. Body and space: closer, stiffer, performs, drops the performance.
+
+**Want:** What they want from them. What they will spend. What they will not ask.
+
+**Additional:** Only what is unique to this bond and not already above. A line they will not cross *here*. A live debt, wound, promise, or lie. Who they think holds the bond. Leave blank if nothing extra is true.
 
 ---
 
-## Cards in play
+## Paste cards below
