@@ -1,12 +1,12 @@
 ---
-id: character-system
+id: character-record
 type: template
 kit: Innverse
-path: characters/templates/_person/system.md
+path: characters/templates/_person/record.md
 status: stub
 ---
 
-# System
+# Record
 
 Facts only. Blank or “unknown” = unknown. Do not invent height, Skills, or gift.
 
