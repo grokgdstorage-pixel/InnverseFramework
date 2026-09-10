@@ -64,9 +64,9 @@ Narrator finalizes. Smallest Class mark that fits, unless they pick a larger hon
 - Authority-granted Classes are parked. Narrator only if play uses them.
 - Unique / personal Class names: narrator-only extremes until the parking-lot item is written.
 - System announcement colors (gold, green, and the rest): parked. They cut across Classes, Skills, and Conditions. Do not invent a color key in this file.
-- Example Class names are illustrations. Do not require them on a sheet.
+- Example Class names are illustrations. Do not require them on `record.md`.
 - If `skills.md` or `leveling.md` is missing, stop after the Class identity packet. Do not invent those procedures.
-- Refused = the offered Class or Skill dies. Deeds, events, and mindset stay. Lost = the Class leaves the active sheet and is stored. Do not store a refusal. Do not expire a loss.
+- Refused = the offered Class or Skill dies. Deeds, events, and mindset stay. Lost = the Class leaves the living list on `record.md` and is stored. Do not store a refusal. Do not expire a loss.
 
 ### TBD — required inputs
 
@@ -116,7 +116,7 @@ Mind shapes what the deed *means*. Playing a board game is not [Strategist] work
 
 If mind and deed pull apart, do not auto-pick. Inform the narrator. List both readings. Examples of the split:
 
-- They do the motions of a role but refuse that identity. The System may still *offer*. They may refuse. That refusal is allowed. Do not force the Class. Keep the deeds, events, and mindset that caused the offer. The offered Class or Skill itself expires. It is not sitting on the sheet waiting to be clicked later. A later mark must be earned again from what they still are and still do.
+- They do the motions of a role but refuse that identity. The System may still *offer*. They may refuse. That refusal is allowed. Do not force the Class. Keep the deeds, events, and mindset that caused the offer. The offered Class or Skill itself expires. It is not sitting on `record.md` waiting to be clicked later. A later mark must be earned again from what they still are and still do.
 - They hold the identity but the deeds are thin. Do not mint the higher Class. Wait or keep the smaller name.
 
 Grok does not resolve that split in silence.
@@ -161,7 +161,7 @@ Do not consolidate when a smaller name change would tell the truth. Rename or sp
 
 The new Class’s pool is the pool of that one path. How rich it is follows hierarchy. Which Skills appear is `skills.md`. What level number the new Class shows is `leveling.md`. This file only says the Class identity changed. Do not guess the resulting level.
 
-Refuse consolidation if they still live two separate lives and only want one prettier line on a sheet.
+Refuse consolidation if they still live two separate lives and only want one prettier line on `record.md`.
 
 ## Loss and demotion
 
@@ -174,7 +174,7 @@ Loss or demotion needs a real break in mind and deed, for example:
 - The role is taken from them and they no longer hold it (a [King] overthrown). The Class may drop in hierarchy. Skills may convert to fit the new, lower role. Conversion is `skills.md`. The new identity is this file.
 - They flee the role and drop the mindset and duties that made it true. The Class may go, or a much smaller Class may replace it.
 
-Store what was lost. The old Class name, its height, and its Skills stay on the sheet record (until a sheet format exists, keep them in the packet and say they belong on the sheet). Do not treat loss as deletion.
+Store what was lost. The old Class name, its height, and its Skills stay on `record.md` under Stored. Do not treat loss as deletion.
 
 Restore only as much as they have actually reclaimed in mind and deed. A partial return is allowed: a smaller Class, a lower height, or only some of the stored Skills. A full return needs a full return of the role. How Skills convert or return in detail is `skills.md`. If that file is missing, report identity plus “stored; restore only what they have reclaimed” and stop.
 
@@ -202,13 +202,13 @@ Not a catalog.
 
 **Player want.** They ask to become a [Knight] after a quiet week of gate duty. No matching becoming. Same Class or silence. Not [Knight].
 
-**Owns the deed.** [Potter] and [Soldier] on the sheet. They spend the scene at the wheel. The deed feeds [Potter].
+**Owns the deed.** [Potter] and [Soldier] on `record.md`. They spend the scene at the wheel. The deed feeds [Potter].
 
 **Mind shapes the deed.** They play a tactical game as a game. It does not feed [Strategist]. The same game, meant as war, can.
 
 **Mind and deed split.** They fight and refuse every combat Class. Offer the combat reading and the refusal. Keep the deeds and mindset. The offered Class expires. Inform the narrator. Do not force the Class.
 
-**Packet shape.** Same gate year, two honest reads: same [Guard] (smaller) or [Veteran Guard] (step). List both. If they refuse [Veteran Guard], keep the year’s deeds; do not leave [Veteran Guard] sitting on the sheet.
+**Packet shape.** Same gate year, two honest reads: same [Guard] (smaller) or [Veteran Guard] (step). List both. If they refuse [Veteran Guard], keep the year’s deeds; do not leave [Veteran Guard] sitting on `record.md`.
 
 **Flavor.** [Fighter] or [Warrior] for the same fighting life. Same height. Two words.
 
@@ -222,7 +222,7 @@ Not a catalog.
 
 **Consolidation refused.** [Strategist] and [Baker] still lived as two lives. Keep both.
 
-**Demotion.** A [King] is unseated and no longer rules in mind or deed. The [King] Class does not stay. A lower ruling or fallen-ruler Class may replace it. Store the [King] record on the sheet. If they reclaim only part of that role, they get only part of it back. Skill conversion is `skills.md`.
+**Demotion.** A [King] is unseated and no longer rules in mind or deed. The [King] Class does not stay. A lower ruling or fallen-ruler Class may replace it. Store the [King] Class on `record.md` under Stored. If they reclaim only part of that role, they get only part of it back. Skill conversion is `skills.md`.
 
 **Not loss.** They retire from the gate and still think of themselves as that craft. Flavor rename or same Class. Skills remain until a real break.
 
@@ -233,7 +233,7 @@ Not a catalog.
 - [Veteran] is a hierarchy adjective for earned wisdom on a fitting path, not a [Soldier]-only Class. Grok proposes other adjectives.
 - Adjective = same work grown. New noun = the role changed height or kind.
 - Refused offers: deeds and mindset stay. The offered Class or Skill expires.
-- Lost or demoted Classes and Skills are stored on the sheet and can return only as far as the role is reclaimed.
+- Lost or demoted Classes and Skills are stored on `record.md` and can return only as far as the role is reclaimed.
 - Authority-granted Classes stay in the parking lot.
 - Unique / personal Class names stay narrator-only until the parking-lot item is written.
 - System colors (gold, green, blue, red, and others) belong on a future colors page, not here.
