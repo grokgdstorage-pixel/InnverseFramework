@@ -3,7 +3,7 @@
 This folder is the Grand Design: the Innverse System used by this kit.
 
 the-system.md is the parent.
-classes.md, skills.md, and leveling.md apply that parent to one product each.
+classes.md, skills.md, leveling.md, and conditions.md apply that parent to one product each.
 Do not restate the parent’s judgment rules inside a child.
 
 ## File purposes
@@ -25,6 +25,10 @@ Process and examples. Not a catalog.
 How to apply the parent to a level: when it fires, what it grants in this kit.
 Process and examples.
 
+### conditions.md
+How to apply the parent to a Condition: tell it from a Skill, which kind it is, how it sits, how it comes off.
+Process and examples. Not a catalog.
+
 ## Status
-Parent and children are on `main`: `the-system.md`, `classes.md`, `skills.md`, `leveling.md`.
+Parent and children are on `main`: `the-system.md`, `classes.md`, `skills.md`, `leveling.md`, `conditions.md`.
 Read the parent first. Do not restate Watch / Judge / Speak inside a child.

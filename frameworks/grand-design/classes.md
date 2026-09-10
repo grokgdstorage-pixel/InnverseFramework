@@ -29,7 +29,7 @@ This file does not answer:
 
 - which Skill to pick (`skills.md`)
 - when a level fires (`leveling.md`)
-- Conditions or Titles (parking lot)
+- Conditions (`conditions.md`)
 - magic
 - a list of legal Class names
 

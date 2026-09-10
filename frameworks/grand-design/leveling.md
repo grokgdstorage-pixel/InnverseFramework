@@ -29,7 +29,7 @@ This file does not answer:
 - Class identity (`classes.md`)
 - which Skill to pick (`skills.md`)
 - when they *hear* the announcement (parent §5: unconscious / usual sleep; awake only while counter-leveling)
-- Conditions, Titles, or System colors (parking lot)
+- Conditions (`conditions.md`). System colors: parked.
 - magic
 - XP or a stat block
 
