@@ -28,4 +28,4 @@ Function with a face. Blank = unknown. Do not invent.
 
 **Tie:** Named Player or Important person, if any, and how they are with them in one line.
 
-**Record if it matters:** One Class name and modest height, or omit.
+**Record if it matters:** One Class name and modest level, or omit.
