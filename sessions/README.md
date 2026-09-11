@@ -1,11 +1,18 @@
+---
+id: sessions-readme
+type: guide
+kit: Innverse
+path: sessions/README.md
+status: draft
+---
+
 # sessions/
 
-Empty in the template. After a clone, log that game’s posting cycles here.
+Unused.
 
-Suggested pattern
-- sessions/001.md, sessions/002.md, …
-- Each note: date, viewpoint characters, link or paste of the BBCode post, mechanical changes (levels, new Skills)
+This kit is play-by-post. There is no session boundary.
 
-The forum thread remains the play surface. This folder is the archive so Grok and the table can find what already happened.
+Raw posts: `lore/campaign/archive.md`  
+Condensed progression: `lore/campaign/chronicle.md`
 
-Do not log sessions in the InnverseFramework template repo.
+Do not add posting-cycle notes here. Do not log play in the InnverseFramework template repo.
