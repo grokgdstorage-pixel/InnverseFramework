@@ -9,7 +9,7 @@ Put here
 
 Do not put
 - Grand Design rewrites meant for every future game (those go back to the template, on purpose)
-- session posts (sessions/)
+- play posts or story beats (`lore/campaign/archive.md` and `lore/campaign/chronicle.md`)
 - character sheets (characters/campaign/)
 
 Starter file to create after cloning: decision-log.md

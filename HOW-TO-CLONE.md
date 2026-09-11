@@ -14,5 +14,3 @@
 5. After play begins: add an archive card per post. Add a chronicle beat about every ten posts, or sooner when a scene closes, a day passes in-world, someone sleeps or goes unconscious, or the System might owe a look.
 6. Leave frameworks/ alone unless the table makes a logged system change. If you change a system rule, copy the decision into reference/campaign/decision-log.md and do not silently edit the template repo.
 7. Play stays on the BBCode forum. This vault records systems, cast, and reference. It does not replace the thread.
-
-Do not use sessions/ for posting cycles. That folder is unused in this kit. Story order lives in lore/campaign/archive.md and lore/campaign/chronicle.md.
