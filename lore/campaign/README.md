@@ -8,15 +8,19 @@ status: draft
 
 # lore/campaign/
 
-Empty in the framework repo. After a clone, this is the map and premise of that game.
+Empty in the framework repo. After a clone, this is the map and story of that game.
 
-## Suggested files
+## Copy from lore/templates/
 
-- `premise.md` — where and when this game starts
-- `places.md` — locations the table actually uses
-- `timeline.md` — only events that happened in play or at setup
-- `factions/` — one file per named group, copied from `lore/templates/faction.md`
+- `premise.md` — why this game exists
+- `places.md` — rooms the table actually uses
+- `archive.md` — raw posts, no interpretation
+- `chronicle.md` — condensed progression
+- `factions/<slug>.md` — one file per named group, from `faction.md`
 
 If a fact would still be true in a different Innverse RP, it belongs in `lore/innverse/` instead.
 
+There is no `timeline.md`. The archive is the cite. The chronicle is the spine.
+
 Do not keep a single `factions.md` dump. One group, one file.
+Do not log play in the InnverseFramework template repo.

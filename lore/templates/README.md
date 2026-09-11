@@ -10,6 +10,12 @@ status: draft
 
 Blanks for setting pages that are not a person.
 
-Copy `faction.md` into `lore/campaign/factions/<slug>.md` when a named group needs its own page.
+After a clone, copy:
 
-Do not fill these templates with a specific faction in this framework repo.
+- `premise.md` → `lore/campaign/premise.md`
+- `places.md` → `lore/campaign/places.md`
+- `archive.md` → `lore/campaign/archive.md`
+- `chronicle.md` → `lore/campaign/chronicle.md`
+- `faction.md` → `lore/campaign/factions/<slug>.md` (one group per file)
+
+Do not fill these templates with a specific game in this framework repo.

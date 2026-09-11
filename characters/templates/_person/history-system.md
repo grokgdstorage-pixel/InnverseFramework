@@ -20,4 +20,4 @@ Newest row at the **top**. Cluster on one row only when the Design spoke in one 
 | --- | --- | --- | --- | --- |
 | Date, arc, or post | Sleep, unconscious, counter-level, other | `[Class]` / level / consolidation / refused | Names only. Full Function stays on `record.md` | Optional. Blank if none |
 
-Do not write the story of the scene here. Trigger is one line. The scene itself belongs in `sessions/` or `history.md` if it still shapes them.
+Do not write the story of the scene here. Trigger is one line. The scene itself belongs in `lore/campaign/chronicle.md` or `history.md` if it still shapes them.
