@@ -32,7 +32,7 @@ Blank or `unknown` = unknown. Do not invent.
 
 ## Table law
 
-Tone and limits that are law for this clone. Pace. Romance. Violence. What the table will not write.
+Tone and limits that are law for this clone. Pace. Romance. Violence. Erotic include/exclude. What the table will not write.
 
 System house rules for this table live in `reference/campaign/`. Point at that file. Do not reprint kit law here.
 

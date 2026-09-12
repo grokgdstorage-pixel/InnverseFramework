@@ -39,7 +39,7 @@ This file does not answer:
 
 Innverse System physics. Plots and characters are non-canon. Campaign exceptions belong in `reference/campaign/`, not here.
 
-How posts become a mark later (archive, tags, narrator gate, Grok) is parked in `operations-outline.md`. Build that pipeline after the parent, children, and magic pages exist. This file does not run that pipeline and does not award XP.
+Play text is opened with `reference/operations/play-packet.md`. This file does not run that pipeline and does not award XP.
 
 ## How to use this file
 
@@ -250,4 +250,4 @@ Not a catalog. Pattern checks only.
 - `leveling.md`
 
 Items parked for those files: `child-move-list.md`.
-Play pipeline: `operations-outline.md`.
+Play text: `reference/operations/play-packet.md`.
