@@ -249,5 +249,4 @@ Not a catalog. Pattern checks only.
 - `skills.md`
 - `leveling.md`
 
-Items parked for those files: `child-move-list.md`.
 Play text: `reference/operations/play-packet.md`.
