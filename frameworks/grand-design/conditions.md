@@ -36,7 +36,8 @@ This file does not answer:
 
 If you have not walked Watch → Judge → Product on `the-system.md`, stop and do that first.
 
-Open this file only after the **Skill vs Condition** test below. If the honest product is a Skill, go to `skills.md`.
+Open this file only after the **Skill vs Condition** test below.
+This file may open even when Class, Skill, and level do not move. An outside infliction is enough. If the honest product is a Skill, go to `skills.md`.
 
 ### Skill vs Condition
 
@@ -54,7 +55,7 @@ If both still fit, pick **Skill** and tell the narrator.
 
 ### Output
 
-Grok ruling packet, not forum text.
+Grok ruling packet, not play-post text and not the archive Body.
 
 Return:
 
@@ -70,6 +71,7 @@ Narrator finalizes. Grok proposes.
 
 ### Stops
 
+- Announce with parent §5: unconscious / usually sleep. Do not print the Condition mid-scene unless the narrator says they already felt it.
 - No catalog.
 - No color key.
 - Do not use a Condition as a consolation prize when a Class or Skill was not “earned enough.”
