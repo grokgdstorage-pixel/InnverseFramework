@@ -56,7 +56,7 @@ Magic is beside this folder. Use `frameworks/magic/how-magic-works.md` and `spel
 
 ### Output
 
-This block is for a Grok ruling packet. It is not forum-post text and not the in-world announcement.
+This block is for a Grok ruling packet. It is not play-post text and not the archive Body and not the in-world announcement.
 
 Return:
 
@@ -78,7 +78,7 @@ Grok does not finalize. The narrator does.
 
 ## Core philosophy
 
-The System is a standing judgment over mortal effort. It watches a person’s mind, their deeds, who they are becoming, and what impact their life has on other people and the world around them. It then marks that shape with a Class, a level, a Skill, or silence.
+The System is a standing judgment over mortal effort. It watches a person’s mind, their deeds, who they are becoming, and what impact their life has on other people and the world around them. It then marks that shape with a Class, a level, a Skill, a Condition, or silence.
 
 It is not a quest log. It is not a fairness engine. It does not owe a reward because someone suffered, and it does not withhold because they were kind.
 
@@ -87,8 +87,9 @@ It is not a quest log. It is not a fairness engine. It does not owe a reward bec
 | Class | The role the person is inhabiting or becoming |
 | Level | That this Class has grown enough to step |
 | Skill | A capability taken from that Class’s pool and handed over now |
+| Condition | A stamp on the person that is not a technique they own |
 
-One machine. Three products. A ruling that treats them as three games will drift.
+One machine. Four products. A ruling that treats them as four games will drift.
 
 ## What it watches
 
@@ -108,7 +109,7 @@ These are not sins. They are reasons the System often stays quiet or stays small
 
 - **Empty grinding.** Motion that teaches nothing and risks nothing. Practice that sharpens them is not this.
 - **Time as a claim.** Years held are not a deed. Years of refinement, dedication, or reach can be.
-- **Unearned player want.** A request from outside the character that the person has not moved toward in mind, deed, or becoming.
+- **Out-of-character request.** A line the human typed (“give them X”) is not a deed.
 - **Age as a law.** The System does not tax years lived. Someone old who still holds a real flame is judged by that flame and those deeds.
 - **Class-count as a law.** Extra Classes are not a fine. Time is the limit. High drive can move more than one Class because more than one path is actually lived. That costs more in the same hours. The highest levels tend to sit on one poured-in path. High-level multi-Class lives require more capability and drive, not a penalty.
 - **Wish without weight.** Wanting a higher-hierarchy Class while thinking and acting as a lower one does not open the higher pool.
@@ -140,9 +141,11 @@ It might be:
 - a Class consolidated
 - old Skills upgraded
 - new Skills gained
+- a Condition (from the life, or inflicted from outside)
 - silence
 
 Any combination of the above can occur together when the culmination warrants it.
+A Condition may land alone. An outside force can stamp one even when Class, Skill, and level do not move. Nothing “of note” for those three does not block a Condition.
 
 Tie-break: choose the smallest mark that fits. Mix only when more than one product actually changed.
 
@@ -150,7 +153,7 @@ Do not default to a full bundle. Do not forbid a full bundle when the life has e
 
 How to build each product is the child’s job.
 
-### 4. Fit the gift
+### 4. Draw only from this Class’s pool, at this level’s ceiling
 
 Each Class has its own Skill pool. Draws come from that pool.
 
@@ -158,7 +161,7 @@ From that pool the System may pick by deed, need, desire, mind, or a plain draw.
 
 **Hierarchy** is the quality of the pool. Lower hierarchy to higher hierarchy is a progression. The higher Class has more possibilities and more capability.
 
-Flavor or culture can differ without a rank step ([Ninja] / [Assassin]). Rank steps enrich the pool ([Soldier] → [Veteran], [Swordsman] → [Swordmaster], [Lord] → [King]).
+Flavor or culture can differ without a rank step ([Fighter] / [Warrior]: same kind of work, two names). Rank steps enrich the pool ([Soldier] → [Veteran], [Swordsman] → [Swordmaster], [Lord] → [King]).
 
 **Level** is investment in that pool. A Level 5 [Swordsman] and a Level 30 [Swordsman] share a pool-color. They are child and adult of one line, not two Classes.
 
@@ -189,6 +192,8 @@ They hear the announcement only when:
 1. They are **unconscious**. Usually sleep. This is the ordinary time the System speaks.
 2. They are **counter-leveling**. The lower-level side is under odds that should break them. Heard **while awake**.
 
+Conditions use this same speak rule. Ordinary announce is unconscious, usually sleep. Counter-leveling is heard awake. Do not print a Condition in the middle of an ordinary waking scene unless the narrator says they already felt it.
+
 Counter-leveling is the exception to the sleep rule. It is not a second System. Growth rate under those odds belongs in `leveling.md`.
 
 No voice on an ordinary good day. Conscious and not in that struggle: no announcement, even if the mark already landed.
@@ -200,7 +205,8 @@ No voice on an ordinary good day. Conscious and not in that struggle: no announc
 - A deed feeds the Class that owns that deed.
 - Off-level Skills still use a fitting pool and that pool’s ceiling.
 - Class changes are identity judgments, not a menu. `classes.md`.
-- Usual play order: `leveling.md` (do they step) → `skills.md` (what they receive) → `classes.md` (only if the Class itself changes).
+- If a stamp or infliction is in play, or the mark is not a Class, Skill, or level: `conditions.md`. That file may open alone or beside the others.
+- Usual order when the question is growth in a Class: `leveling.md` (do they step) → `skills.md` (what they receive) → `classes.md` (only if the Class itself changes).
 - Magic sits beside the System. Not in this file.
 
 ## Examples
@@ -211,7 +217,7 @@ Not a catalog. Pattern checks only.
 
 **Mind without a new title.** Same gate, but they begin to think of it as theirs to keep. The System may mark a [Guard] path more honestly, or wait. It does not hand [Ruler].
 
-**Player want.** They ask for a rare combat Skill after a quiet week. No matching deed, cost, or becoming. Silence or a small in-path mark. Not the requested Skill.
+**Want without deed.** They ask for a rare combat Skill after a quiet week. No matching deed, cost, or becoming. Silence or a small in-path mark. Not the requested Skill.
 
 **Skill only.** A season of real practice on the gate. A [Guard] pool Skill, usually near current height, still under the [Guard] ceiling.
 
