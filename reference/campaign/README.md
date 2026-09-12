@@ -11,4 +11,4 @@ Or put a short exception on that clone’s `lore/campaign/premise.md` under Tabl
 Do not put
 - Grand Design rewrites meant for every future game (those go back to the template, on purpose)
 - play posts or story beats (`lore/campaign/archive.md` and `lore/campaign/chronicle.md`)
-- character sheets (characters/campaign/)
+- living people (`characters/campaign/`)
