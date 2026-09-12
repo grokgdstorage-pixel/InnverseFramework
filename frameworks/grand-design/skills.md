@@ -212,12 +212,12 @@ Most of List A sits near 8. One line may sit higher if exertion is real. Ceiling
 - Off-level Skills use the Class they were living when unsure.
 - Capstone rarity lives here. Capstone as a level event lives in `leveling.md`.
 - Refused Skill expires. Stored-with-lost-Class does not.
-- Colors and unique Skill names: parking lot.
+- Colors and unique Skill names: narrator only. Do not invent a page.
 
 ## TBD
 
-- Sheet format for held Skills and stored Skills
+- Record format for held Skills and stored Skills
 - Exact post-50 Skill rate (`leveling.md`)
 - How hard a capstone slot is (`leveling.md`)
-- Unique / colored Skill text (parking lot)
-- Synergy Skills (parking lot)
+- Unique / colored Skill text: narrator only. Do not invent a page.
+- Synergy Skills: narrator only. Do not invent a page.
