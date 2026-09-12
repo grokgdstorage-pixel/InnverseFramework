@@ -98,17 +98,17 @@ It is not a score. It is not a mood.
 
 ## Kinds
 
-Not a menu. Use the kind that matches what happened.
+Not a menu. Use the kind that matches what happened. Do not invent a kind. If none of the four fit, say so, put the extra under Additional, and let the narrator pick.
 
 **Hung or applied.** Someone else’s Skill, vengeance, or power puts the mark on them. `[Normalize Condition]` is this door used in reverse (a Skill that strips).
 
 **Disease / curse / infection.** A plague or contamination the Design acknowledges. May be **invisible** until it is gone.
 
-**Red distress / Horror.** Negative stamp tied to Horror Ranks or a red Class. Do not assume it is refusable.
+**Red distress / Horror.** Negative stamp. Do not treat Horror Ranks as filed kit. If the narrator has not opened that product, file this as Hung or as Additional.
 
 **Attention or body rewrite.** The world treats them differently, or the body is not what it was, and that is not a Class technique.
 
-**With a Class step (canon blur).** The books sometimes label a standing body-effect a Condition when a Class evolves. In this kit those are **Skills** unless the narrator wants the canon label. See Design notes.
+Canon sometimes labels a standing body-effect a Condition when a Class evolves. In this kit those are **Skills** unless the narrator wants the canon label. That is not a fifth kind. See Design notes.
 
 ## Lived with
 
