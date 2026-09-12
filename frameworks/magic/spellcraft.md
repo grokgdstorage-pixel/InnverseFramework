@@ -42,7 +42,7 @@ If they are putting that spell into an object, leave after naming the effect. Ob
 
 ### Output
 
-Grok ruling packet, not forum text.
+Grok ruling packet, not play-post text and not the archive Body.
 
 Return:
 

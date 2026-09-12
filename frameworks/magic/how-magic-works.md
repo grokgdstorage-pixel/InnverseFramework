@@ -15,7 +15,7 @@ Parent manual for **magic** in this kit.
 
 Magic is world physics. It sits **beside** the System. It is not a fourth System product.
 
-Read `the-system.md` first if a Class, Skill, or level might move. Then return here for the magic.
+Read `the-system.md` first if a Class, Skill, level, or Condition might move. Then return here for the magic.
 
 This file answers:
 
@@ -47,16 +47,14 @@ If the question is “what capability lands,” and it is a Skill not a spell, o
 
 ### Output
 
-Grok ruling packet, not forum text.
+Grok ruling packet, not play-post text and not the archive Body.
 
 Return:
 
 1. Magic outcome options: no cast / boxed / freeform / Bound Spell / wrong source / wait. Do not pick one in silence. Grade of the box (crude or practiced) is a reason on the boxed option, not a separate product.
 2. Source in play (living sources only: mana, tribe, meaning, wild)
 3. Manner of casting if it matters: **Calculated** and/or **Felt**, with a short reason
-4. Two lists when a named spell is in play, both in-band:
-   - **List A — effects.** Plain-speech results. No bracket names.
-   - **List B — names.** Possible spell titles only. Do not pair them 1:1 unless the narrator asks.
+4. If a named spell must be offered, open `spellcraft.md` and produce List A / List B there. Do not emit a second pair in this file.
 5. Whether `classes.md`, `skills.md`, or `leveling.md` should open
 
 Default: options plus a reason each. Oversupply is fine. Narrator cuts.
@@ -64,7 +62,7 @@ Default: options plus a reason each. Oversupply is fine. Narrator cuts.
 ### Stops
 
 - No spell directory. List A and List B are options for this scene, not a legal list of all spells.
-- Always return List A and List B when a named spell is in play, unless the narrator asks to pair them.
+- Named-spell List A / List B live in `spellcraft.md`. Do not emit a second pair here.
 - No magic-Class directory.
 - Manner of casting is not a Class name.
 - Manner is not a source.

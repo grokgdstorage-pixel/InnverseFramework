@@ -41,7 +41,7 @@ Open this file when the product in play might be a level: a step, silence instea
 
 ### Output
 
-Grok ruling packet, not forum text.
+Grok ruling packet, not play-post text and not the archive Body.
 
 Return:
 

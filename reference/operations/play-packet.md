@@ -75,7 +75,7 @@ On `mind.md`: Personality and How their mind operates first. Then only the label
 
 Do not treat this output as an in-world System announce. Do not treat a vault heading as spoken dialogue.
 
-Room and body detail come from the current **Body** and the `places.md` card. Do not paste the last post’s furniture paragraph again. Do not invent a second room to make the prose feel new.
+Room and body detail come from the current **Body** and the `places.md` card. Do not paste the last post’s furniture paragraph again. Do not invent a second room to make the prose feel new. If the prompt says to create a place and use it now, that wins; the narrator files it after.
 
 Tone and limits for this game, including what erotic content is allowed or barred, live on `premise.md` under Table law. Do not invent a second list here.
 

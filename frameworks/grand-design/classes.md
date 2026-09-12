@@ -43,7 +43,7 @@ If the mark is only a Skill or only a level, do not use this file.
 
 ### Output
 
-Grok ruling packet, not forum text.
+Grok ruling packet, not play-post text and not the archive Body.
 
 Return:
 

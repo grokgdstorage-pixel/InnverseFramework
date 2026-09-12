@@ -30,7 +30,7 @@ Blank or `unknown` = unknown.
 
 **Quality:** How strong their magic is in play, if that is a known fact. Else `unknown`.
 
-**Magic Classes:** Names and levels only. Current name after consolidation. Skill cards stay on `record.md`.
+**Magic Classes:** Names and levels only. Must match `record.md`. `record.md` is the living list. Skill cards stay on `record.md`.
 
 - [Class] — Level
 - [Class] — Level

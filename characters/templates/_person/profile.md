@@ -28,7 +28,7 @@ Blank = unknown. Do not invent.
 
 **Sexuality:** What their sexuality is. Blank if unestablished.
 
-**Occupation(s):** How they sustain themselves. What a stranger would think they do, if that differs.
+**Occupation(s):** How they sustain themselves. What a stranger would think they do, if that differs. System Class names live on `record.md`.
 
 **Factions:** Named groups they are known to belong to. Party, town, guild, house, Wistram, a company. Membership only — what a stranger could learn. How they *feel* about that group, and how they act inside it, is a card in `relationships.md` if the group is treated like a person. Blank if they belong nowhere that matters.
 

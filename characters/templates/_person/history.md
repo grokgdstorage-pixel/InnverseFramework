@@ -18,7 +18,7 @@ Newest beat at the **top**. A load-bearing beat may run a paragraph or two. An o
 
 Copy the card below once per beat. Delete unused cards.
 
-**When** is the date, arc, or post. **Link** is the archive card or chronicle beat. Default `TBD` until that page exists.
+**When** is the date, arc, or post. **Link** is `lore/campaign/archive.md` and the post range, and/or the chronicle beat. Not a PM URL. Default: `TBD`.
 
 ---
 
@@ -26,7 +26,7 @@ Copy the card below once per beat. Delete unused cards.
 
 **When:** Date, arc, or post.
 
-**Link:** Vault link to the archive card or chronicle beat. Default: `TBD`. Replace TBD when the page exists.
+**Link:** `lore/campaign/archive.md` and the post range, and/or the chronicle beat. Not a PM URL. Default: `TBD`.
 
 **Participants:** Names that matter to the beat. Not a relationship card. Blank if it was only them.
 
