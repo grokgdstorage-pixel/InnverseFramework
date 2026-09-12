@@ -21,7 +21,7 @@ This file answers:
 
 - which drill is in play: Foundation / Acquisition / fill the box / Theorization
 - which pool to draw from, and how to pick inside it
-- how to offer a named effect (List A / List B, marked near-band vs edge)
+- how to offer a named effect (List A / List B, marked near their current range vs edge)
 - time and cost as options when they are studying or rebuilding
 
 This file does not answer:
@@ -47,8 +47,8 @@ Grok ruling packet, not play-post text and not the archive Body.
 Return:
 
 1. Which drill is in play (Foundation / Acquisition / fill the box / Theorization)
-2. Which pool: source + the Class they are living + band they can hold
-3. **List A — effects.** Plain speech. No bracket names. Mark which lines sit near their current band and which sit toward the edge of what they can hold.
+2. Which pool: source + the Class they are living + the range they can hold
+3. **List A — effects.** Plain speech. No bracket names. Mark which lines sit near their current range and which sit toward the edge of what they can hold.
 4. **List B — names.** Titles only. Do not pair 1:1 unless asked.
 5. A short reason on each option (deed, need, desire, mind, template they already have, or principles)
 6. Time and cost as options when the drill is study or Theorization. A System grant on a level does not inherit study time. No gold table. No calendar as law.
@@ -58,7 +58,7 @@ Default: options plus reasons. Oversupply is fine. Narrator cuts. Do not lock Li
 
 Window and quality: parent + character profile. Do not re-explain them here.
 
-**Band** in this file is that window — what they can actually hold — not a new number and not a Skill-ceiling of +20. If `record.md` / `magic.md` has no window yet, say so and give near / edge as relative options. Do not invent a tier table.
+**Range** in this file is that window — what they can actually hold — not a new number and not a Skill-ceiling of +20. If `record.md` / `magic.md` has no window yet, say so and give near / edge as relative options. Do not invent a tier table.
 
 ### Stops
 
@@ -80,9 +80,9 @@ It is not a player catalog. Need and desire color the pick. They do not invent a
 
 ## Which pool
 
-Source (usually mana on this path) + the Class they are living + the band they can actually hold.
+Source (usually mana on this path) + the Class they are living + the range they can hold.
 
-A `[Cryomancer]` draws ice-lean effects at their band. They do not draw an `[Archmage]` continent-spell because they wished they could. A `[Guard]` who once watched a mage does not draw from a `[Mage]` pool.
+A `[Cryomancer]` draws ice-lean effects at their range. They do not draw an `[Archmage]` continent-spell because they wished they could. A `[Guard]` who once watched a mage does not draw from a `[Mage]` pool.
 
 If two Classes could own the spell, use `classes.md` (who owns the deed). Then pick from that pool.
 
@@ -101,7 +101,7 @@ From that pool the offer may use:
 - **Template they already have** — fill or stretch a box they own (not Theorization by default)
 - **Principles** — only if Theorization is honest and the profile supports it
 
-Most lines sit near their current band. The edge of what they can hold is the rare offer, not the normal landing.
+Most lines sit near their current range. The edge of what they can hold is the rare offer, not the normal landing.
 
 Weaker or smaller effects still happen. Several small templates can land; so can one. Default: list those as options. Do not decide how many in silence.
 
@@ -127,7 +127,7 @@ They need a pool and enough theory to take the next step. How large the pool is,
 
 This file does not grow the pool. This file does not explain what mana is.
 
-If they have no hold on the band at all, do not skip to Theorization because they asked for a new name.
+If they have no hold on the range at all, do not skip to Theorization because they asked for a new name.
 
 ---
 
@@ -135,11 +135,11 @@ If they have no hold on the band at all, do not skip to Theorization because the
 
 Learn a template that already exists: teacher, book, or the System granting the spell (including a spell gained with a level). That grant is Acquisition, not Theorization and not a Skill-file problem unless the gift is actually a Skill.
 
-A copied title is not the band. Writing `[Some Famous Spell]` on a page or in a prompt does not mean they can throw that band.
+A copied title is not the range. Writing `[Some Famous Spell]` on a page or in a prompt does not mean they can throw that range.
 
 Spellbooks are hard to copy. Scribing is height-gated. Do not invent a [Magical Scribe] here. If the name is the question, `classes.md`.
 
-A jump in band from study can take nights or weeks. Offer time as options. Do not print a week-count as law.
+A jump in range from study can take nights or weeks. Offer time as options. Do not print a week-count as law.
 
 A System grant on a level does not inherit that study cost. They have the template when the System gives it, unless the narrator adds a cost.
 
@@ -163,7 +163,7 @@ Build or rebuild the spell. Rare.
 
 The profile must speak to principles or a real gift. If it does not, stay in Acquisition or fill the box.
 
-Rebuild from the ground (the Wistram picture): can take a scene even for a low-band spell. The result may be more *intricate*, not automatically stronger. Time is a cost. Offer it.
+Rebuild from the ground (the Wistram picture): can take a scene even for a low-range spell. The result may be more *intricate*, not automatically stronger. Time is a cost. Offer it.
 
 New named effect:
 
@@ -173,7 +173,7 @@ New named effect:
 
 Skills often do not ride a freeform rebuild. Say so when it matters.
 
-Past the usual window: narrator only. Do not hand a high-band invention after a quiet week.
+Past the usual window: narrator only. Do not hand a high-range invention after a quiet week.
 
 ---
 
@@ -189,27 +189,27 @@ Living this — nights on a hard template, a rebuild that costs them, a failed i
 
 Not a catalog.
 
-**Acquire the hard way.** Ice-lean `[Mage]`, mid height. They want a storm they cannot hold. Drill: Acquisition. Pool: mana + ice lean + their band.
+**Acquire the hard way.** Ice-lean `[Mage]`, mid height. They want a storm they cannot hold. Drill: Acquisition. Pool: mana + ice lean + their range.
 
-List A (near band): a shard that flies true; a slick patch under a foot; cold that bites one limb.
+List A (near range): a shard that flies true; a slick patch under a foot; cold that bites one limb.
 List A (edge): a wall of ice across a door.
 List B: titles only, not glued.
 Reasons: desire is the storm; deed is drill at their height; they cannot hold the storm.
-Time options: nights of study for the wall / they keep the near-band lines / no storm this week.
+Time options: nights of study for the wall / they keep the near-range lines / no storm this week.
 
 **Fill a box they have.** Only if someone is about to treat a known throw as Theorization. Same named spell, sloppy vs practiced. Parent owns the grade. Ordinary known `[Fireball]` does not need this file.
 
-**Rebuild a low-band spell.** Profile speaks to principles. Drill: Theorization. Pool stays their Class and band.
+**Rebuild a low-range spell.** Profile speaks to principles. Drill: Theorization. Pool stays their Class and range.
 
-List A: the same low-band effect, tighter and less waste; the same effect, wider and sloppy; they stall and keep the box.
+List A: the same low-range effect, tighter and less waste; the same effect, wider and sloppy; they stall and keep the box.
 List B: titles only if a new name is even on the table.
 Reasons: principles; time as cost. Not a tier jump.
 
-**Quiet week, new high-band name.** Drill: Acquisition of something they can hold, or a small Theorization if the profile supports it. In-band List A / List B only. No famous title from a copied name.
+**Quiet week, new high-range name.** Drill: Acquisition of something they can hold, or a small Theorization if the profile supports it. In-range List A / List B only. No famous title from a copied name.
 
 ## Design notes
 
-- Four drills are a map. The engine is pool + how to pick + List A/B marked by band.
+- Four drills are a map. The engine is pool + how to pick + List A/B marked by range.
 - Parent keeps physics. This file keeps teaching and offers.
 - Caster-pattern flavor is not kit law. Do not invent a patterns page.
 - Object Materialization waits on a later child.
