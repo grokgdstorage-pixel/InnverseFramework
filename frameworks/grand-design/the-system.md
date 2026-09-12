@@ -7,7 +7,7 @@ children-planned:
   - frameworks/grand-design/classes.md
   - frameworks/grand-design/skills.md
   - frameworks/grand-design/leveling.md
-  - frameworks/magic/how-magic-works.md
+  - frameworks/grand-design/conditions.md
 bot-role: language for narrator and Grok; not an engine
 authority: narrator finalizes; Grok returns options only
 status: draft
@@ -27,7 +27,7 @@ This file answers:
 - how it chooses a product (or silence)
 - how far a gift may go
 - when the person hears the announcement
-- how Class, Skill, and level are one machine
+- how Class, Skill, level, and Condition are one machine
 
 This file does not answer:
 
@@ -35,23 +35,24 @@ This file does not answer:
 - which Skill to pick inside a pool
 - when a level fires, or capstone procedure
 - counter-leveling growth rate
-- magic, posts, or campaign house rules
+- magic (see `frameworks/magic/`), posts, or campaign house rules
 
-Innverse System physics. Plots and characters are non-canon. Campaign exceptions belong in `reference/campaign/`, not here.
+Innverse System physics. Plots and characters are non-canon. Short campaign exceptions belong on that clone’s `lore/campaign/premise.md` under Table law, not here.
 
 Play text is opened with `reference/operations/play-packet.md`. This file does not run that pipeline and does not award XP.
 
 ## How to use this file
 
-Read this file before any Class, Skill, or level ruling.
+Read this file before any Class, Skill, level, or Condition ruling.
 
 Then open only the child that matches the product chosen:
 
 - Class change, name, hierarchy, or consolidation → `classes.md`
 - Skill pick, pool, ceiling, obtained vs learned → `skills.md`
 - Whether they step, capstones as a level event, counter-leveling growth → `leveling.md`
+- Condition vs Skill, kind, how it sits, how it comes off → `conditions.md`
 
-If those children are not written yet, stay inside this file. Do not invent a child procedure.
+Magic is beside this folder. Use `frameworks/magic/how-magic-works.md` and `spellcraft.md`. Do not invent a child procedure.
 
 ### Output
 

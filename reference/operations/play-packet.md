@@ -57,8 +57,8 @@ Then only if needed:
 - `history.md` / `history-system.md` — a past beat or announce must be cited
 - a relationship card — a specific other person is on camera
 - `magic.md` / `spellcraft.md` — they are using magic in this scene
-- `the-system.md` and one child — the narrator asked for a Design pass, or the paste already contains an announce that must be logged
-- `reference/campaign/` — this table wrote an exception
+- `the-system.md` and one child (`classes.md`, `skills.md`, `leveling.md`, or `conditions.md`) — the narrator asked for a Design pass, or the paste already contains an announce that must be logged
+- `lore/campaign/premise.md` Table law — this table wrote a short exception. `reference/campaign/` only if that note is too long for premise.
 
 On `mind.md`: Personality and How their mind operates first. Then only the labeled section the scene needs.
 

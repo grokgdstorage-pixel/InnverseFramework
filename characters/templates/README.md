@@ -21,7 +21,7 @@ Blank heading = unknown. Do not invent.
 
 ## First read
 
-`profile.md` → `mind.md` → `relationships.md` → `record.md`. Then `history.md` / `history-system.md` if a past beat or announce must be cited. Then a Grand Design file (`the-system.md`, `classes.md`, `skills.md`, `leveling.md`) if a ruling might open. `magic.md` only if it exists.
+`profile.md` → `mind.md` → `relationships.md` → `record.md`. Then `history.md` / `history-system.md` if a past beat or announce must be cited. Then a Grand Design file (`the-system.md`, `classes.md`, `skills.md`, `leveling.md`, `conditions.md`) if a ruling might open. `magic.md` only if it exists.
 
 On `mind.md`: read Personality and How their mind operates first. Then only the labeled section the scene needs.
 

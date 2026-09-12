@@ -67,13 +67,13 @@ Narrator finalizes. Grok proposes. Do not lock List A to List B.
 - Do not award past that pool’s ceiling. Narrator only beyond it.
 - Example Skill names are illustrations. Do not require them.
 - Always return List A (effects, no names) and List B (names, not glued to A) unless the narrator asks to pair them.
-- If `leveling.md` is missing, do not invent capstone timing. Capstone here only means “rarer slot,” not when the level fires.
+- Capstone timing is `leveling.md`. Capstone here only means “rarer slot,” not when the level fires.
 - Refused = the offered Skill dies. Deeds, events, and mindset stay. Lost-with-Class = Skill is stored with that Class. Do not store a refusal. Do not expire a stored Skill.
 - System colors: parked. Do not invent a color key.
 
 ### TBD — required inputs
 
-Until sheet and compile formats exist, a Skill ruling needs:
+A Skill ruling needs, from the narrator or `record.md`:
 
 - current Classes, levels, and held Skills
 - the deed and how they see it
@@ -151,7 +151,7 @@ If obtained vs learned vs grown is unclear, inform the narrator. List the readin
 
 They may refuse a Skill. That is allowed.
 
-Keep the deeds, events, and mindset that caused the offer. The offered Skill expires. It does not sit on the sheet waiting to be clicked. A later Skill must be earned again from what they still are and still do.
+Keep the deeds, events, and mindset that caused the offer. The offered Skill expires. It does not sit on `record.md` waiting to be clicked. A later Skill must be earned again from what they still are and still do.
 
 Do not store a refused Skill as if it were a lost Class Skill.
 
@@ -194,7 +194,7 @@ Most of List A sits near 8. One line may sit higher if exertion is real. Ceiling
 
 **Refuse.** They are offered a killing Skill and refuse. Keep the fight and the mindset. The offered Skill expires.
 
-**Convert / store.** [King] falls. King-pool Skills store on the sheet. Some may convert to the lower ruling Class. Do not delete them.
+**Convert / store.** [King] falls. King-pool Skills store on `record.md`. Some may convert to the lower ruling Class. Do not delete them.
 
 **Partial restore.** They reclaim part of the old role. Some stored Skills return, or return weaker. Not the full set unless the role is fully back.
 
