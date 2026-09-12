@@ -14,7 +14,7 @@ A human uses this as a loadout. A cold read uses it to write a cast and to see w
 
 Physics live in `how-magic-works.md`. New named spells are offered in `spellcraft.md`. Magic **Classes** and the **Skills** that came with them live in `record.md`. Do not reprint those cards here. Do not invent quality or a spell they have not been given.
 
-**Quality** on this page is **Band** in `how-magic-works.md` and `spellcraft.md`: what they can actually hold.
+**Quality** on this page is **Range** in `how-magic-works.md` and `spellcraft.md`: what they can actually hold.
 
 Delete this file if they do not cast and hold no Bound Spell.
 
