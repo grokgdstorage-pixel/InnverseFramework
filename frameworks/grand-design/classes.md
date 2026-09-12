@@ -59,20 +59,18 @@ Narrator finalizes. Smallest Class mark that fits, unless they pick a larger hon
 
 - No Class directory.
 - No Skill list.
-- Do not assign a level number here. If a number is needed and `leveling.md` is not written yet, return identity only.
+- Do not assign a level number here. If a number is needed, open `leveling.md`.
 - Do not hand a new name when the old name still tells the truth.
 - Authority-granted Classes are parked. Narrator only if play uses them.
 - Unique / personal Class names: narrator-only extremes. Do not invent a page for them.
 - System announcement colors (gold, green, and the rest): parked. They cut across Classes, Skills, and Conditions. Do not invent a color key in this file.
 - Example Class names are illustrations. Do not require them on `record.md`.
-- If `skills.md` or `leveling.md` is missing, stop after the Class identity packet. Do not invent those procedures.
+- Skill procedure is `skills.md`. Level procedure is `leveling.md`. Do not invent those procedures here.
 - Refused = the offered Class or Skill dies. Deeds, events, and mindset stay. Lost = the Class leaves the living list on `record.md` and is stored. Do not store a refusal. Do not expire a loss.
 
 ### TBD — required inputs
 
-Fill when character-sheet and compile formats exist.
-
-Until then, a Class ruling still needs, from the narrator or the sheet:
+A Class ruling needs, from the narrator or `record.md`:
 
 - current Class names and levels
 - the deed in question
