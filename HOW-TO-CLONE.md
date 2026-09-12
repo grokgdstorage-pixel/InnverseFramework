@@ -4,8 +4,8 @@
 2. Do not keep writing campaign facts into InnverseFramework.
 3. Open the new repo as an Obsidian vault (Open folder as vault).
 4. Fill, in this order:
-   - reference/campaign/ — house rules for this table
-   - lore/campaign/premise.md — copy from lore/templates/premise.md
+   - lore/campaign/premise.md — copy from lore/templates/premise.md (Table law holds short house rules)
+   - reference/campaign/ — only if a house note is too long for Table law
    - lore/campaign/places.md — copy from lore/templates/places.md
    - lore/campaign/archive.md — copy from lore/templates/archive.md
    - lore/campaign/chronicle.md — copy from lore/templates/chronicle.md
@@ -13,4 +13,4 @@
    - characters/campaign/ — copy characters/templates/_person/ or _background/ for each named person (one folder per person)
 5. After play begins: add an archive card per post. Add a chronicle beat about every ten posts, or sooner when a scene closes, a day passes in-world, someone sleeps or goes unconscious, or the System might owe a look.
 6. Leave frameworks/ alone unless the change is meant for every future game. A single game’s exception goes on that clone’s lore/campaign/premise.md under Table law. Do not silently edit the template repo.
-7. Play stays on the BBCode forum. This vault records systems, cast, and reference. It does not replace the thread.
+7. Play is written in a private forum PM. Paste full posts into lore/campaign/archive.md. This vault does not replace the PM.

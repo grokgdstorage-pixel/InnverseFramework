@@ -10,7 +10,7 @@ status: stub
 
 Facts the Grand Design has **already** put on this person.
 
-How to *offer* a new Class, Skill, or step lives in `the-system.md`, `classes.md`, `skills.md`, and `leveling.md`. Do not reprint those files. Do not invent level, Skills, or a mark.
+How to *offer* a new Class, Skill, step, or Condition lives in `the-system.md`, `classes.md`, `skills.md`, `leveling.md`, and `conditions.md`. Do not reprint those files. Do not invent level, Skills, or a mark.
 
 Blank or `unknown` = unknown.
 
@@ -29,7 +29,7 @@ Class and Level only. One line per Class they still have. Current name after con
 
 ## Conditions and other marks
 
-Standing System marks that are not a Class or a Skill. Name — what it does in play. Or **None.**
+Standing System marks that are not a Class or a Skill. Name — what it does in play. Or **None.** How to offer or lift one lives in `conditions.md`.
 
 ---
 

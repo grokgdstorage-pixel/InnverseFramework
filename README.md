@@ -5,7 +5,7 @@ Reusable documentation kit for roleplays set in the Innverse
 
 Clone this repo for a new game. Do not turn the template itself into one campaign.
 
-- Play: BBCode forum
+- Play: private forum PM. Surviving record: lore/campaign/archive.md after a clone.
 - Canon for systems and process: this GitHub repo
 - Reading UI: Obsidian pointed at a clone of this repo
 
