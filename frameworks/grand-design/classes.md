@@ -62,7 +62,7 @@ Narrator finalizes. Smallest Class mark that fits, unless they pick a larger hon
 - Do not assign a level number here. If a number is needed and `leveling.md` is not written yet, return identity only.
 - Do not hand a new name when the old name still tells the truth.
 - Authority-granted Classes are parked. Narrator only if play uses them.
-- Unique / personal Class names: narrator-only extremes until the parking-lot item is written.
+- Unique / personal Class names: narrator-only extremes. Do not invent a page for them.
 - System announcement colors (gold, green, and the rest): parked. They cut across Classes, Skills, and Conditions. Do not invent a color key in this file.
 - Example Class names are illustrations. Do not require them on `record.md`.
 - If `skills.md` or `leveling.md` is missing, stop after the Class identity packet. Do not invent those procedures.
@@ -234,17 +234,17 @@ Not a catalog.
 - Adjective = same work grown. New noun = the role changed height or kind.
 - Refused offers: deeds and mindset stay. The offered Class or Skill expires.
 - Lost or demoted Classes and Skills are stored on `record.md` and can return only as far as the role is reclaimed.
-- Authority-granted Classes stay in the parking lot.
-- Unique / personal Class names stay narrator-only until the parking-lot item is written.
+- Authority-granted Classes: narrator only if play uses them. Do not invent a page.
+- Unique / personal Class names stay narrator-only. Do not invent a page.
 - System colors (gold, green, blue, red, and others) belong on a future colors page, not here.
 - Consolidation and demotion do not invent Skill lists or level math here.
 
 ## TBD
 
-- Character-sheet format to require as input
-- Lost-Class / stored-Skill record lives on the sheet
+- Record format to require as input
+- Lost-Class / stored-Skill record lives on `record.md`
 - Compile / post-packet format to require as input
-- Unique / personal Class rules (parking lot)
-- System announcement colors (parking lot: planned colors page)
+- Unique / personal Class rules: narrator only. Do not invent a page.
+- System announcement colors: narrator only. Do not invent a colors page.
 - How Skills convert on demotion (`skills.md`)
 - Level number after consolidation or demotion (`leveling.md`)

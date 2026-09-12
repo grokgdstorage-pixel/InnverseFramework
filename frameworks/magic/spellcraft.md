@@ -70,7 +70,7 @@ Window and quality: parent + character profile. Do not re-explain them here.
 - Witch / shaman / druid do not walk these four drills as law.
 - No floating pool. Draw from the source and Class they are actually living.
 - Always return List A and List B unless the narrator asks to pair them.
-- Do not treat `parking-lot.md` as kit. No caster-patterns file is required. Do not invent one.
+- No caster-patterns file is required. Do not invent one.
 
 ## What a spell offer is
 
@@ -86,7 +86,7 @@ A `[Cryomancer]` draws ice-lean effects at their band. They do not draw an `[Arc
 
 If two Classes could own the spell, use `classes.md` (who owns the deed). Then pick from that pool.
 
-Dye is the living Class name. No patterns child is required. Do not invent one. Do not open `parking-lot.md` for a ruling.
+Dye is the living Class name. No patterns child is required. Do not invent one.
 
 No floating pool.
 
@@ -211,7 +211,7 @@ Reasons: principles; time as cost. Not a tier jump.
 
 - Four drills are a map. The engine is pool + how to pick + List A/B marked by band.
 - Parent keeps physics. This file keeps teaching and offers.
-- Caster-pattern flavor is parked. Not kit law. Do not read the parking lot as a manual.
+- Caster-pattern flavor is not kit law. Do not invent a patterns page.
 - Object Materialization waits on a later child.
 - Parent four-drill gloss should shrink to one line pointing here when both are filed.
 

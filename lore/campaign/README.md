@@ -20,7 +20,7 @@ Empty in the framework repo. After a clone, this is the map and story of that ga
 
 If a fact would still be true in a different Innverse RP, it belongs in `lore/innverse/` instead.
 
-There is no `timeline.md`. The archive is the cite. The chronicle is the spine.
+The archive is the cite. The chronicle is the spine.
 
 Do not keep a single `factions.md` dump. One group, one file.
 Do not log play in the InnverseFramework template repo.

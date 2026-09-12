@@ -2,10 +2,6 @@
 
 How framework and reference documents are written.
 
-Later files belong here:
-- reference-material-creation-practices.md
-- when-to-split-vs-expand.md
-- template-usage-policy.md
-- decision-log.md (template-level decisions only)
+No extra pages in this folder yet. Do not invent practice files.
 
-Campaign house rules do not go here. Use reference/campaign/.
+A single game’s house rules belong on that clone’s `lore/campaign/premise.md` under Table law, or as a short note in `reference/campaign/`.
