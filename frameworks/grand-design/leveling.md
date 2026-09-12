@@ -65,12 +65,12 @@ Narrator finalizes. Grok proposes.
 - Do not invent a level number after consolidation or demotion. Propose heights with reasons. Narrator picks.
 - Do not copy the announcement rule except as a pointer to parent §5.
 - Example numbers in this file are illustrations (Level 8, Level 10). Do not require them.
-- If `skills.md` is missing, say “step / no step” and stop. Do not invent Skills.
+- Skill names and slots are `skills.md`. This file says step / no step. Do not invent Skills here.
 - System colors: parked.
 
 ### TBD — required inputs
 
-Until sheet and compile formats exist, a level ruling needs:
+A level ruling needs, from the narrator or `record.md`:
 
 - current Class names and levels
 - the deed and how they see the path
@@ -248,7 +248,7 @@ Not on this menu: +10 levels, automatic ceiling Skill, forced rename.
 
 ## TBD
 
-- Sheet format (last step date, stored heights)
+- Last step date and stored heights live on `record.md` / `history-system.md`
 - Exact post-50 Skill rate
 - How hard each capstone band is, if play needs more than “harder”
-- Compile packet fields for “since last step”
+- Until an Eval Bot exists, “since last step” is the chronicle beat plus `history-system.md`
