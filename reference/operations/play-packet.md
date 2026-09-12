@@ -58,6 +58,7 @@ Then only if needed:
 - a relationship card — a specific other person is on camera
 - `magic.md` / `spellcraft.md` — they are using magic in this scene
 - `the-system.md` and one child (`classes.md`, `skills.md`, `leveling.md`, or `conditions.md`) — the narrator asked for a Design pass, or the paste already contains an announce that must be logged
+- Until an Eval Bot exists, a Design look uses the last chronicle beat plus `history-system.md`. Do not invent compile fields.
 - `lore/campaign/premise.md` Table law — this table wrote a short exception. `reference/campaign/` only if that note is too long for premise.
 
 On `mind.md`: Personality and How their mind operates first. Then only the labeled section the scene needs.
