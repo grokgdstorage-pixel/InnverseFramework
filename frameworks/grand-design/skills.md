@@ -41,7 +41,7 @@ Open this file when the product in play is a Skill: obtained, learned, grown, co
 
 ### Output
 
-Grok ruling packet, not forum text.
+Grok ruling packet, not play-post text and not the archive Body.
 
 Return:
 
