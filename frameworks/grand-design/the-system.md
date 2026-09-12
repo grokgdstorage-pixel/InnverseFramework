@@ -25,7 +25,7 @@ This file answers:
 - what it watches and discounts
 - how it judges
 - how it chooses a product (or silence)
-- how far a gift may go
+- how far a mark may go
 - when the person hears the announcement
 - how Class, Skill, level, and Condition are one machine
 

@@ -75,6 +75,7 @@ A Class ruling needs, from the narrator or `record.md`:
 - current Class names and levels
 - the deed in question
 - how they see themselves and this path
+Current compile is the chronicle beat plus `history-system.md`. Do not invent Eval Bot fields.
 
 ## What a Class is
 

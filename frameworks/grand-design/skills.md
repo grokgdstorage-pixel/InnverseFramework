@@ -78,6 +78,7 @@ A Skill ruling needs, from the narrator or `record.md`:
 - current Classes, levels, and held Skills
 - the deed and how they see it
 - any stored Skills from a lost Class
+Current compile is the chronicle beat plus `history-system.md`. Do not invent Eval Bot fields.
 
 ## What a Skill is
 

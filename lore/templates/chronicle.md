@@ -22,7 +22,7 @@ Do not copy a person’s `history.md` into this file. This is the shared spine. 
 
 Blank or `unknown` = unknown. Do not invent.
 
-**Link** points at the archive cards or post range. Default: `TBD`.
+**Link** is `lore/campaign/archive.md` and the post range. Not a PM URL. Default: `TBD`.
 
 ---
 
@@ -36,7 +36,7 @@ Setup that is true before Post 1. Use the same card. Omit this heading if nothin
 
 **When:** In-world mark and/or post range. Example: Posts 11–19. Night after the chamber.
 
-**Link:** Vault link to the archive cards or post range. Default: `TBD`.
+**Link:** `lore/campaign/archive.md` and the post range. Not a PM URL. Default: `TBD`.
 
 **Who:** Names that matter to the beat.
 
