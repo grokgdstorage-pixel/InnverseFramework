@@ -6,11 +6,25 @@ path: characters/campaign/README.md
 status: draft
 ---
 
-# Campaign characters
+# characters/campaign/
 
-Empty in the framework repo.
+Empty in the framework repo. After a clone, this is where living people go.
 
-After clone: one folder per named person. Copy `_person` or `_background` from `characters/templates/`. Rename the slug. Fix frontmatter `path:` to this folder.
+Blanks stay in `characters/templates/`. Do not fill those templates with a real person.
 
-Do not put living sheets in `characters/templates/`.
+## After clone
+
+One folder per named person.
+
+- Player or Important: copy `characters/templates/_person/` to `characters/campaign/<slug>/`
+- Background: copy `characters/templates/_background/` to `characters/campaign/<slug>/`
+
+Rename the slug. Fix frontmatter `path:` to this folder.
+
+Required on `_person`: `profile.md` `mind.md` `relationships.md` `record.md`  
+Optional: `magic.md` `history.md` `history-system.md` — delete if unused.
+
+System hold lives on `record.md`. Play text is opened with `reference/operations/play-packet.md`.
+
 Do not put ten background people in one file.
+Do not put living people in `characters/templates/`.
