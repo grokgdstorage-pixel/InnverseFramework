@@ -102,7 +102,7 @@ The common route is high-stakes struggle (most often crushing combat): live, pus
 
 A second route is a **breakthrough in the same Class**: a line of inquiry or a new way of inhabiting the path that meaningfully expands what they understand. Not a small improvement. The Class itself has opened.
 
-A third route is a high-quality mind or body entering an **adjacent** path: wisdom, intellect, cunning, knowledge, physical aptitude already in place. The System can read “this is past X Class at Y height” and either hand several levels in that Class, or keep the number low and place them in a *higher hierarchy* Class instead (`classes.md` owns that name). That reading is rare, in the same band as learned Skills. It needs real potential and a path close enough that the old capability transfers.
+A third route is a high-quality mind or body entering an **adjacent** path: wisdom, intellect, cunning, knowledge, physical aptitude already in place. The System can read “this is past X Class at Y height” and either hand several levels in that Class, or keep the number low and place them in a *higher hierarchy* Class instead (`classes.md` owns that name). That reading is rare, in the same rarity as learned Skills. It needs real potential and a path close enough that the old capability transfers.
 
 Do not hand more than one level without an honest exertion or a display beyond what that Class-at-that-height usually holds. A good afternoon is not enough. Do not refuse more than one level only because the scene was not a battle.
 
@@ -250,5 +250,5 @@ Not on this menu: +10 levels, automatic ceiling Skill, forced rename.
 
 - Last step date and stored heights live on `record.md` / `history-system.md`
 - Exact post-50 Skill rate
-- How hard each capstone band is, if play needs more than “harder”
-- Until an Eval Bot exists, “since last step” is the chronicle beat plus `history-system.md`
+- How hard each capstone stretch (every ten levels) is, if play needs more than “harder”
+- “Since last step” is the chronicle beat plus `history-system.md`. Do not invent extra compile fields.

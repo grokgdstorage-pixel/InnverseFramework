@@ -15,6 +15,14 @@ Parent manual for **magic** in this kit.
 
 Magic is world physics. It sits **beside** the System. It is not a fourth System product.
 
+Cheat (do not mash these):
+- **Source** — what it draws on (mana, tribe, meaning, wild). Not a Class name.
+- **Manner** — Calculated or Felt. Not source. Not boxed vs freeform. Not [Wizard] vs [Sorcerer].
+- **Boxed vs freeform** — System template vs shaped by the caster. Not manner.
+- **Class dye** — System investment / specialization. Does not rewrite physics.
+- **Range** (Quality on `magic.md`) — what they can actually hold. Not the Skill +20 ceiling.
+- Named-spell List A / List B live in `spellcraft.md`.
+
 Read `the-system.md` first if a Class, Skill, level, or Condition might move. Then return here for the magic.
 
 This file answers:
@@ -25,7 +33,7 @@ This file answers:
 - boxed spell vs freeform
 - Bound Spell on a non-caster
 - how magic Classes hang on that physics
-- how far a named spell may go (tier as a band)
+- how far a named spell may go (tier as a range)
 
 This file does not answer:
 
@@ -155,7 +163,7 @@ Most modern [Mages] live on boxed spells. The box is how average casters stay ef
 
 ## Tiers
 
-Tiers 0–9 are **bands**, not XP.
+Tiers 0–9 are **ranges**, not XP.
 
 Rough modern picture: 0–1 almost anyone on the mana path; 2 takes study; 3 is the usual bar for most; 4–6 is uncommon height; 7+ is rare in the present and hungry; 9 can kill the caster.
 
@@ -163,7 +171,7 @@ The same named spell changes size with talent and pool. A low [Druid] and an [Ar
 
 Lower height can punch a higher tier with practice and time. Do not print a table that says Tier N requires Level X.
 
-Treat “past this band” like the Skill ceiling: Grok stays in-band; narrator only beyond it.
+Treat “past this range” like the Skill ceiling: Grok stays in-range; narrator only beyond it.
 
 ## Examples
 
@@ -189,7 +197,7 @@ Manner: Calculated, Felt, or both listed. Not a new Class because they studied o
 
 **Miracle want.** They ask to call on forgotten gods. Default: no. Ancient tale, not a living path. Narrator only.
 
-**Player want.** They ask for a Tier 7 spell after a quiet week of boxed Tier 2. In-band options only.
+**Player want.** They ask for a Tier 7 spell after a quiet week of boxed Tier 2. In-range options only.
 
 ## Design notes
 
@@ -207,4 +215,4 @@ Manner: Calculated, Felt, or both listed. Not a new Class because they studied o
 
 - Other-source or practice children only if a recurring caster in play actually lives that path
 - Miracle page only if play forces the extinct path
-- Exact modern rarity of each tier band — do not invent a table to fill this
+- Exact modern rarity of each tier range — do not invent a table to fill this
