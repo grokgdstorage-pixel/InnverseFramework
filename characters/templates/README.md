@@ -27,10 +27,5 @@ On `mind.md`: read Personality and How their mind operates first. Then only the 
 
 ## Grok packet
 
-Not a finished forum post unless asked.
-
-1. Tier
-2. What they want this scene
-3. What they will not do
-4. Whether `record.md`, a Grand Design file, or `spellcraft.md` should open
-5. A beat or post angle. Off-screen events are the narrator.
+How to open the vault and write play text lives in `reference/operations/play-packet.md`.
+This folder is the person. That file is the read order and the stops.
