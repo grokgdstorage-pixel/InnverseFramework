@@ -58,7 +58,7 @@ Default: options plus reasons. Oversupply is fine. Narrator cuts. Do not lock Li
 
 Window and quality: parent + character profile. Do not re-explain them here.
 
-**Band** in this file is that window — what they can actually hold — not a new number and not a Skill-ceiling of +20. If the sheet has no window yet, say so and give near / edge as relative options. Do not invent a tier table.
+**Band** in this file is that window — what they can actually hold — not a new number and not a Skill-ceiling of +20. If `record.md` / `magic.md` has no window yet, say so and give near / edge as relative options. Do not invent a tier table.
 
 ### Stops
 
