@@ -12,6 +12,8 @@ Facts the Grand Design has **already** put on this person.
 
 How to *offer* a new Class, Skill, step, or Condition lives in `the-system.md`, `classes.md`, `skills.md`, `leveling.md`, and `conditions.md`. Do not reprint those files. Do not invent level, Skills, or a mark.
 
+**Level** on this page is **height** in the Grand Design and magic manuals.
+
 Blank or `unknown` = unknown.
 
 Read this page when a ruling or a scene needs what they **hold**. Dated gain-by-gain log belongs in `history-system.md`. How they think belongs in `mind.md`. Bound Spells belong in `magic.md`.
