@@ -34,7 +34,7 @@ Blank or `unknown` = unknown. Do not invent.
 
 Tone and limits that are law for this clone. Pace. Romance. Violence. Erotic include/exclude. What the table will not write.
 
-System house rules for this table live in `reference/campaign/`. Point at that file. Do not reprint kit law here.
+Short house rules for this table live here. If a note is too long for this page, put it in `reference/campaign/` and point at it. Do not reprint kit law from `frameworks/`.
 
 ---
 
